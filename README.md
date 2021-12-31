@@ -1,6 +1,6 @@
-####帳號名稱:BusExport
-####LINE ID: @503sjfnm
-####LINE QRcode: <br>
+帳號名稱:BusExport
+LINE ID: @503sjfnm
+LINE QRcode: <br>
 <img src="./images/LINEQRcode.png"><br>
 ##使用指南
 <hr>
@@ -17,7 +17,7 @@
 <hr>
 ##API使用來源
 <hr>
-此資料由[臺北大眾捷運股份有限公司-API服務](https://www.metro.taipei/cp.aspx?n=BDEB860F2BE3E249)所提供
+此資料由[臺北大眾捷運股份有限公司-API服務](https://www.metro.taipei/cp.aspx?n=BDEB860F2BE3E249) 所提供
 
 
 
