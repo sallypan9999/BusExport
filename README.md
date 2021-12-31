@@ -1,4 +1,4 @@
-###帳號名稱:BusExport
+帳號名稱:BusExport
 LINE ID: @503sjfnm
 LINE QRcode: <br>
 <img src="./images/LINEQRcode.png"><br>
